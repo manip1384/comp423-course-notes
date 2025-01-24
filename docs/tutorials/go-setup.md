@@ -4,7 +4,7 @@
 * Reviewer: [Daniel Ramsgard](https://github.com/DanielRamsgard)
 
 <!-- Use more backticks `` for more keyswords -->
-<!-- Make the headers have smaller font compared to the bulk of the text-->
+<!-- Make the headers have smaller font compared to the bulk of the text -->
 
 # Before doing anything, make sure you have these installed:
 

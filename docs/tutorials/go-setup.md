@@ -3,6 +3,9 @@
 * Primary author: [Mani Pourfazli](https://github.com/manip1384)
 * Reviewer: [Daniel Ramsgard](https://github.com/DanielRamsgard)
 
+<!-- Use more backticks `` for more keyswords -->
+<!-- Make the headers have smaller font compared to the bulk of the text-->
+
 # Before doing anything, make sure you have these installed:
 
 1. Docker Desktop for mac, windows, or linux
@@ -44,6 +47,7 @@
 # Now you need to make a go file to put your code in:
 1. Make a file in vscode called `main.go`
 2. Open the file you just made and paste this inside:
+<!-- Make this code have syntax highlighting recommendation -->
 ```
 package main
 import "fmt"

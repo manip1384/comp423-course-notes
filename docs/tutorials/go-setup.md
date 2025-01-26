@@ -72,8 +72,7 @@ func main() {
 #### Now push your work to github
 Do the following:
 ```bash
-cd ..
-echo "Go (Hello COMP423) program tutorial." > README.md
+echo "Go (Hello COMP423) program tutorial. Link: \`https://manip1384.github.io/comp423-course-notes/tutorials/go-setup\`" > README.md
 git add .
 git commit -m "meaningful commit message"
 git push origin main

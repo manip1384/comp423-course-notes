@@ -10,6 +10,12 @@
 3. `Git` for mac, windows, or linux
 4. A `Github` Account
 
+!!! Note
+    The concepts above and below are good to know but not mandatory to be able to follow along with the tutorial:
+    basic knowledge of [**Go Syntax**](https://www.w3schools.com/go/index.php),
+    basic proficiency of [**Git Commands**](https://www.w3schools.com/git/),
+    and `Docker Desktop`.
+
 #### Also make sure you have an understanding of these topics:
 
 4. Some basic knowledge of [**Go Syntax**](https://www.w3schools.com/go/index.php).
